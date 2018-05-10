@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConverterEuroDollarPound</string>
+    <string name="euro">Euro</string>
+    <string name="reset">Reset</string>
+    <string name="dollar">Dollar</string>
+    <string name="pound">Pound</string>
+</resources>
